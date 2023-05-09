@@ -1,8 +1,12 @@
 # proyectos_videotutorial
 ### Ejercicios javascript
 
-![ ejercicio ](  ejercicio.png " Ejercicio ")
+ ![Ejercicio](/img/ejercicio.png "index.js")
 ### Ejercicio Hola mundo y suma
 
 ![ capuchino ](  capuchino.png " Ejercicio ")
 ### Ejercicio de capuchino
+
+![ sumar](  sumar.png "Ejercicio")
+### Ejercicio de sumar
+![ codigo](  codigo.png "Ejercicio")
