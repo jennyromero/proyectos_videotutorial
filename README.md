@@ -1,12 +1,18 @@
 # proyectos_videotutorial
-### Ejercicios javascript
-
- ![Ejercicio](/img/ejercicio.png "index.js")
+### Ejemplo javascript
 ### Ejercicio Hola mundo y suma
+ ![ejemplo](/img/ejemplo.png "ejemplo")
 
-![ capuchino ](  capuchino.png " Ejercicio ")
 ### Ejercicio de capuchino
+![capuchino](  /img/capuchino.png "capuchino")
 
-![ sumar](  sumar.png "Ejercicio")
 ### Ejercicio de sumar
-![ codigo](  codigo.png "Ejercicio")
+![sumar](  /img/sumar.png "sumar")
+![codigo](  /img/codigo.png "codigo")
+
+## Proyectos
+
+### Calculadora
+![calculadora]( /img/calculadora.png "calculadora")
+
+
