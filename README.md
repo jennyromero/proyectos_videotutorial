@@ -22,3 +22,7 @@
 ![Toggle]( /img/toggle.png "toggle")
 ![toggle]( /img/toggle%2C.png "toggle")
 
+### 4 Dark theme
+![Dark]( /img/Dark.png "Dark theme")
+![dark]( /img/dark.png "Dark theme")
+
